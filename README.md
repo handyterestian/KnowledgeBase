@@ -1,2 +1,2 @@
 # KnowledgeBase
-anything about troubleshooting has solved
+problem has been solved :D
